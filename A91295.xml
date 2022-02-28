@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ten considerable quæries concerning tithes, the present petitioners and petitions for their total abolition, as antichristian, Jewish, burdensom, oppressive to the godly, consciencious people of the nation; excited, incouraged thereunto by disguised Jesuits, popish priests, friers, and Romish emissaries, to starve, suppress, extirpate our protestant ministers, church, religion; and bring them all to speedy confusion. / By William Prynne Esq; a bencher of Lincolns Inne.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91295</idno>
+            <idno type="STC">Wing P4100</idno>
+            <idno type="STC">Thomason E767_2</idno>
+            <idno type="STC">ESTC R15775</idno>
+            <idno type="EEBO-CITATION">99859917</idno>
+            <idno type="PROQUEST">99859917</idno>
+            <idno type="VID">167197</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91295)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 167197)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 117:E767[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ten considerable quæries concerning tithes, the present petitioners and petitions for their total abolition, as antichristian, Jewish, burdensom, oppressive to the godly, consciencious people of the nation; excited, incouraged thereunto by disguised Jesuits, popish priests, friers, and Romish emissaries, to starve, suppress, extirpate our protestant ministers, church, religion; and bring them all to speedy confusion. / By William Prynne Esq; a bencher of Lincolns Inne.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Thomas at the Adam and Eve in Little Britain,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 27.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tithes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:167197:1" rendition="simple:additions"/>
+            <p>TEN Conſiderable Quaeries CONCERNING TITHES, THE Preſent <hi>Petitioners</hi> and <hi>Petitions</hi> for their <hi>total abolition,</hi> as <hi>Antichriſtian, Jewiſh, burdenſom, op<g ref="char:EOLhyphen"/>preſsive</hi> to the <hi>godly, conſciencious People</hi> of the <hi>Nation;</hi> excited, incouraged thereunto by diſ<g ref="char:EOLhyphen"/>guiſed <hi>Jeſuits, Popiſh Prieſts, Friers,</hi> and <hi>Romiſh Emiſſaries,</hi> to <hi>ſtarve, ſuppreſs, extirpate</hi> our <hi>Pro<g ref="char:EOLhyphen"/>teſtant Miniſters, Church, Religion;</hi> and bring them all to ſpeedy <hi>confuſion.</hi>
+            </p>
+            <p>
+               <hi>By</hi> William Prynne <abbr>Eſq</abbr> 
+               <hi>a Bencher of</hi> Lincolns Inne.</p>
+            <q>
+               <bibl>Levit. 27. 30.</bibl> 
+               <p>
+                  <hi>All the Tithe of the Land, of the ſeed of the land, or of the fruit of the tree,</hi> IS THE LORDS, <hi>it is holy unto the Lord.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Gal. 6. 6.</bibl> 
+               <p>
+                  <hi>Let him that is taught in the word communicate to him that teacheth in all good things.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Calvin, in</hi> Mal. 3. 11.</bibl> 
+               <p>Videmus non eſſe novum vel inſolitum ſi homines Deo ſua officia imputent, &amp; interea manifeſt è eripiant ei (Decimas) quod ſuum eſt, et ad ſe transferunt; manifeſt è ſatis appareat eorum im<g ref="char:EOLhyphen"/>pictas, etiamſi velo ſimulationis ſit obducta.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Edward Thomas</hi> at the <hi>Adam</hi> and <hi>Eve</hi> in <hi>Little Britain,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:167197:2"/>
+            <pb n="1" facs="tcp:167197:2"/>
+            <head>Ten Conſiderable Quaeres concern<g ref="char:EOLhyphen"/>ing Tithes, and the New Petiti<g ref="char:EOLhyphen"/>oners, Petitions, concerning their aboliſhing.</head>
+            <p n="1">I. <seg rend="decorInit">W</seg>Hether <hi>Nine parts</hi> of <hi>Ten</hi> of the preſent eager <hi>Petitioners</hi> againſt our <hi>Miniſters Tithes</hi> (if ſtrictly examined by the poll) will not ap<g ref="char:EOLhyphen"/>pear to be poor mecanical perſons, of ſuch mean inconfiderable fortunes, eſtates, con<g ref="char:EOLhyphen"/>dition, (without any <hi>Tithable lands, livings, eſtates,)</hi> as are no ways intereſſed nor concerned in the payment of <hi>Tithes?</hi> And ſo fitter to be puniſhed as <hi>factious, ſeditious, ſchiſmatical;</hi> than thanked, encouraged as <hi>zealous, conſcientious, well-affected per<g ref="char:EOLhyphen"/>ſons,</hi> by thoſe in preſent power?</p>
+            <p n="2">II. Whether all or moſt of theſe Petitioners, be not really <hi>greater Enemies</hi> to our <note n="*" place="margin">See John Cannes ſecond Voice from the Temple, 1653.</note> 
+               <hi>Miniſters</hi> and their <hi>Miniſtry,</hi> then they are unto their <hi>Tithes;</hi> petitioning purpoſely againſt their <hi>Tithes</hi> in order to the <hi>ſubverſion, extirpation</hi> of their <hi>Miniſtry, Function,</hi> and thereby of our <hi>Proteſtant Church</hi> and <hi>Religion?</hi> And that by the inſtigation, ſollicitation of thoſe diſguiſed <hi>Jeſuits, Popiſh Prieſts, Monks</hi> and <note n="*" place="margin">See My Quakers Un<g ref="char:EOLhyphen"/>maſked. My New Diſcove<g ref="char:EOLhyphen"/>ry of Romiſh Emiſſaries. And true and perfect Narra<g ref="char:EOLhyphen"/>tive.</note> 
+               <hi>Romiſh Emiſſaries,</hi> which bear chief ſway in moſt <hi>Separate Congregations</hi> of <hi>Anabaptiſts, Quakers,</hi> and other <hi>Antagonists</hi> now attempting the preſent abolition of <hi>Tithes?</hi> If ſo; (as will appear upon an impar<g ref="char:EOLhyphen"/>tial Inquiſition) whether ſuch perſons will not be fitter to be baniſhed as <hi>Antichriſtian,</hi> rather than <hi>Tithes,</hi> and to be ta<g ref="char:EOLhyphen"/>ken into publike conſideration before the debate of <hi>Tithes?</hi>
+            </p>
+            <p n="3">III. Whether there be not above <hi>One hundred</hi> religious well affected <hi>Proteſtants,</hi> perſons of <hi>Honor, Quality, Eſtate</hi> lya<g ref="char:EOLhyphen"/>ble
+<pb n="2" facs="tcp:167197:3"/>
+to the payment of <hi>predial Tithes,</hi> and moſt concerned therein, who deſire the conſtant payment and continuance of them for the maintenance of their Miniſters, to every one of thoſe <hi>Tith-payers</hi> who now petition againſt them as a <hi>grievance,</hi> though the <hi>Tithes</hi> the moſt of them pay be not con<g ref="char:EOLhyphen"/>ſiderable? If ſo, (as is moſt apparent, by comparing the paucity and quality of the Petitioners, with thoſe who re<g ref="char:EOLhyphen"/>fuſe to joyn with them) Whether it can bee conſcionable, equitable, juſt, reaſonable, <note n="*" place="margin">See Clauſ. 28 E. 1. m. 3. dorſo.</note> Parliamentarie, to admit of any debates for the aboliſhing, or altering the payment of <hi>Tithes,</hi> upon the <hi>Petitions</hi> of ſo few <hi>malecontented Sectaries,</hi> and <hi>unva<g ref="char:EOLhyphen"/>luable</hi> perſons; againſt the wills, conſents, deſires, of the <hi>Generality</hi> and moſt conſiderable part of the <hi>Nobility, Gentry, Farmers, Citizens, Freemen of the whole Nation?</hi> And that du<g ref="char:EOLhyphen"/>ring the <hi>abſence</hi> &amp; forcible ſecluſion of moſt of thoſe <hi>Knights, Citizens,</hi> and <hi>Burgeſſes</hi> they duly <hi>elected</hi> to repreſent their <hi>perſons,</hi> and give both their <hi>free Votes, Opinions, Aſſents,</hi> and <hi>Diſſents,</hi> to whatever <hi>publike buſineſſes</hi> ſhould be <hi>propounded</hi> and <hi>ordained in Parliament:</hi> Therefore to this of <hi>Tithes</hi> which is ſo <hi>univerſal,</hi> and ſo highly concerns both our Religion and Proprieties?</p>
+            <p n="4">IV. Whether it will not be an apparent breach of the <hi>Great Charter of England,</hi> ch. 1. &amp; 29. <hi>That the Church of Eng<g ref="char:EOLhyphen"/>land ſhall be free, and ſhall have her whole Rights and Liberties in<g ref="char:EOLhyphen"/>violable; That no Freeman ſhall be diſſeiſed of his Freehold, or Li<g ref="char:EOLhyphen"/>berties, or Free-Cuſtoms, or be outlawed, exiled, or any otherwiſe destroyed, nor ſhall we paſs upon him nor condemn him, but by the lawfull Iudgement of his Peers, and by the Law of the Land:</hi> And of above 40. other Statutes for its confirmation fince, (ſome of them in the laſt long <hi>Parliament,</hi> now revived in <hi>pretext:)</hi> for thoſe now ſitting to take upon them, the debating and voting down of <hi>Tithes, or altering their uſual way of payment</hi> in any kinde (being the <hi>Inheritance, Right, Liberty, Free-hold of the Church of England,</hi> of every particular <hi>Church, Patron, Miniſter, Impropriator,</hi> and many thouſands of <hi>Freemen</hi> in all parts of the Nation) without any lawfull ſummons given to them to appear before them, to defend, maintain their re<g ref="char:EOLhyphen"/>ſpective Inheritances, Freeholds, rights, intereſts in them, (ratified by preſcription time out of mind; by ſundry Acts
+<pb n="3" facs="tcp:167197:3"/>
+of Parliament both under our antient <note n="*" place="margin">See Mr. Sel<g ref="char:EOLhyphen"/>dens Hiſtory of Tithes, c. 8. Raſtals A<g ref="char:EOLhyphen"/>bridgment, Title Tithes.</note> 
+               <hi>Saxon, Norman, Engliſh</hi> Kings, and many late <hi>Ordinances</hi> (to which thoſe now conyened gave their Votes, as fully as others now ſe<g ref="char:EOLhyphen"/>cluded) as well as by <hi>Divine Right, Inſtitution</hi> both <hi>before, un<g ref="char:EOLhyphen"/>der the Law,</hi> and <hi>Goſpel</hi> too) <hi>without any lawfull judgement, hea<g ref="char:EOLhyphen"/>ring, tryal by their Peers, or by the Law of the Land?</hi> And whe<g ref="char:EOLhyphen"/>ther this will be a conſciencious real performance of their printed Declaration, May 9. 1659 <hi>We are reſolved (by the gra<g ref="char:EOLhyphen"/>cious aſſiſtance of Almighty God,) to apply our ſelves to the faithfull diſcharge of our Legal Truſt, to aſſert, eſtabliſh, and ſecure, the</hi> Property <hi>and</hi> Liberty <hi>of the people in reference unto all, both as</hi> Men <hi>and</hi> Chriſtians? Therfore of all <hi>Patrons, Miniſters, Mem<g ref="char:EOLhyphen"/>bers</hi> as well as others, unleſs they repute them neither <hi>Men,</hi> nor <hi>Chriſtians.</hi>
+            </p>
+            <p n="5">V. Whether <note n="*" place="margin">See his Se<g ref="char:EOLhyphen"/>cond Voice from the Tem<g ref="char:EOLhyphen"/>ple, 1653.</note> 
+               <hi>John Canne,</hi> with other Adverſaries to and Petitioners againſt Tithes as <hi>Iewiſh</hi> and <hi>Antichriſtian;</hi> ought not firſt to prove them ſuch, by clear unanſwerable Scrip<g ref="char:EOLhyphen"/>tures, Evidences, Demonſtrations, to the conviction of the <hi>Iudgements, Conſciences</hi> of the generality of the Engliſh Nati<g ref="char:EOLhyphen"/>on, and all now ſitting? And to anſwer all the Arguments Authorities, Scriptures, Reaſons produced by <hi>Tyndarus,</hi> &amp; <hi>Re<g ref="char:EOLhyphen"/>buffus,</hi> in their Treatiſes <hi>de Decimis,</hi> Dr. <hi>George Carltons,</hi> Tithes proved to be due by a Divine right, <hi>London</hi> 1606. Dr. <hi>Robert Till<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſlee,</hi> his Animadverſions on Mr. <hi>Seldens</hi> Hiſtory of Tithes <hi>London</hi> 1619. Sir <hi>Iohn Sempil</hi> his Sacrilege ſacredly hand<g ref="char:EOLhyphen"/>led, <hi>London 1619. Stephen Nettles</hi> his Anſwer to the Jewiſh part of Mr. <hi>Seldens</hi> Hiſtory of Tithes, Oxon 1625. <hi>Richard Mountague</hi> his Anſwer to the firſt part of the Hiſtory of Tithes, <hi>London</hi> 1628. Dr. <hi>William Sclater,</hi> his Miniſters portion; <hi>Foulke Roberts,</hi> The Revenue of the Goſpel is <hi>Tithes,</hi> due to the Miniſtry of the word by that word, <hi>Cambridge 1613. Ri<g ref="char:EOLhyphen"/>chard Eburne,</hi> his Maintenance of the Miniſtry, <hi>London 1609. R. G.</hi> his Truth of Tithes diſcovered; or the Anatomy of <hi>Annanias</hi> and <hi>Saphiraes</hi> Sacriledge, <hi>London 1608. My</hi> Goſpel Plea (interwoven with a <hi>Rational</hi> and <hi>Legal)</hi> for the Lawfulneſs and continuance of the ancient mainte<g ref="char:EOLhyphen"/>nance and Tenths of the Miniſters of the Goſpel, <hi>London</hi> 1653. &amp; <hi>others,</hi> to prove Tithes Due by Divine Right to the
+<pb n="4" facs="tcp:167197:4"/>
+Miniſters <hi>of the Goſpel,</hi> and neither <hi>Jewiſh</hi> nor <hi>Antichriſtian,</hi> nor <hi>illegal,</hi> nor <hi>burdenſom</hi> to the people in the leaſt degree, be<g ref="char:EOLhyphen"/>ing allowed in all Leaſes, purchaſes, before they be voted down, aboliſhed, and quite abrogated as ſuch, upon their <hi>cla<g ref="char:EOLhyphen"/>morous, ſcandalous Petitions, Suggeſtions,</hi> void of all truth?</p>
+            <p n="6">VI. Whether the preſent, and future pretended <hi>eaſe</hi> of the people in their <hi>Tithes</hi> to their <hi>Ministers,</hi> (if effected) will not be recompenced with an <hi>Augmentation</hi> or <hi>Duplica<g ref="char:EOLhyphen"/>tion</hi> of their Monthly <hi>Taxes</hi> to the <hi>Army,</hi> or in <hi>Fines, Rents</hi> to their <hi>Landlords,</hi> to a far greater value than they now pay to their Miniſters, and be levyed with greater rigour and harder compoſitions, if deteined, than now they are? accor<g ref="char:EOLhyphen"/>ding to Saint <hi>Auguſtines</hi> prediction, <hi>Sermo 219. De Tempore, If thou will not give thy Tithes,</hi> Dabis impio Militi, quod non vis dare Deo &amp; Sacerdoti; Hoc tollit Fiſcus, quod non accepit Chriſtus: <hi>Thou ſhall be ſure to give that to an impious Souldier, which thou will not give to God, and a pious Minister: The Exchequer takes that away, which Chriſts hath not received;</hi> as ſome Pariſhes have found by experience to their coſts and grief.</p>
+            <p n="7">VII. Whether it be not a moſt arrogant, high, inexcu<g ref="char:EOLhyphen"/>ſable preſumption for a few <hi>giddy-pated Innovators</hi> in this Age, to condemn, cenſure, not only the practiſe, wiſe<g ref="char:EOLhyphen"/>dom, piety of <hi>Abraham, the Father of the Faithfull,</hi> and all the people of God in the Old Teſtament, before and under the Law, and of moſt Chriſtian States, Churches under the Goſ<g ref="char:EOLhyphen"/>pel in paying, preſcribing <hi>Tithes,</hi> as the moſt <hi>equal, rational, juſt, convenient</hi> maintenance for the <hi>Prieſts and Miniſters of God</hi> of all others; but likewiſe of the <hi>wiſdom, prudence, provi<g ref="char:EOLhyphen"/>dence of God,</hi> who is <note n="a" place="margin">Prov. 8. 1, 14. c. 9. 1.</note> 
+               <hi>Wiſdom it ſelf, and</hi> 
+               <note n="b" place="margin">Rom. 16. 27. 1 Tim. 1. 17. Iude 21.</note> 
+               <hi>God only wiſe,</hi> 
+               <note n="c" place="margin">1 Cor. 11. 25.</note> 
+               <hi>whoſe very Folly is wiſer than men,</hi> in inſtituting, commanding ſuch a conſtant, ſetled maintenance for them in his Word, as the beſt, fitteſt of all others; wherein both Miniſter and people equally <hi>loſe, gain,</hi> and ſympathiſe with each other, which they cannot do with ſo much indifferency, equallity in any other way, which human wiſedome could hitherto invent?</p>
+            <p n="8">VIII. Whether it be not an infallable evidence, that thoſe have neither the <hi>Faith</hi> nor <hi>Piety,</hi> and by conſequence <hi>are
+<pb n="5" facs="tcp:167197:4"/>
+not the Sons of Abraham,</hi> the Father <hi>of the Faithfull,</hi> in a Spi<g ref="char:EOLhyphen"/>ritual or Goſpel ſence, who refuſe to do his <note n="d" place="margin">Iohn 8. 39, Rom. 4. 7. to 15.</note> 
+               <hi>works</hi> and <hi>follow his ſteps,</hi> in <hi>paying Tithes of all their ſpoils of Warr to Chriſt himſelf, a Prieſt for ever after the order of</hi> Melchiſedeck, Heb. 7. 4. as other Soldiers by his example did both amongſt <hi>Iſraelites, Christians and Pagans too,</hi> Num 31. 26, to 54. 1 <hi>Chron.</hi> 26. 26, 27, 28. Mr. <hi>Seldens</hi> Hiſtory of <hi>Tithes, c.</hi> 1. 3. and endeavour <hi>to ſpoyl them of all other Tithes due from themſelves, and others too;</hi> reputing it an eminent degree of their <hi>Saintſhip?</hi> And whe<g ref="char:EOLhyphen"/>ther this their practiſe be not likelier to bring them into <hi>Hell torments,</hi> than into <hi>Abrabams</hi> boſome in concluſion, if they repent not of it? <hi>Luke</hi> 16. 23. to 31.</p>
+            <p n="9">IX. Whether all the <hi>Inconveniences</hi> objected againſt Mi<g ref="char:EOLhyphen"/>niſters maintenance by <hi>Tithes,</hi> be not rather fictitious, imagi<g ref="char:EOLhyphen"/>nary, than real, ariſing from the <hi>malice, covetouſneſs, impiety, fraud, hypocriſie, injuſtice, rapine, perverſeneſſe, litigeouſneſſe</hi> of the wilfull Deteiners, Oppoſers of them, rather than from <hi>Tithes</hi> themſelves? fince many <hi>Miniſters</hi> heretofore, and of late years, have lived all their lives without any ſutes for <hi>Tithes</hi> with any of their Pariſhioners, and might doe ſo ſtill, would they make a Conſcience to pay them without any ſute? Whether thoſe who refuſe to pay <hi>Tithes</hi> in kind to Miniſters now, out of a pretext of Conſcience; will not up<g ref="char:EOLhyphen"/>on the ſame Pretence refuſe to pay them any other mainte<g ref="char:EOLhyphen"/>nance that can be invented, and make it more litigious, con<g ref="char:EOLhyphen"/>tentious, uncertain than their Tithes, ſince every Innovation in this kind ingenders new ſuites &amp; diſputes, when all legal Controverſies, ſuites for Tithes have been long ſince ſetled, reſolved over and over, both in Parliaments, and other Courts of Juſtice?</p>
+            <p n="10">X. Whether the admiſsion, permiſſion of thoſe few Commoners now acting without their Fellows, (being ſcarce the TENTH PART OF THE HOUSE) to vote down, or take away the Miniſters <hi>Tenths,</hi> or reduce them into one publick Treaſury, to divide and diſtribute them at their pleaſures, though amongſt the Miniſters themſelves at firſt, will not be a dangerous leading Preſident and encou<g ref="char:EOLhyphen"/>ragement to them (upon any pretended neceſſity) to diſpoſe of theſe <hi>Tenths</hi> and the other <note n="*" place="margin">1 Sam. 8. 14, 15, 16, 17. 18. See I0. Calvi<g ref="char:EOLhyphen"/>ni Hom. 29 in 1 Sam. c. 8. p. 155.</note> 
+               <hi>nine parts</hi> of every <hi>Mans eſtate,</hi>
+               <pb n="6" facs="tcp:167197:5"/>
+and reduce the profits of them into their publick Treaſury, for the neceſſary defence, and preſervation of their <hi>New-Commonwealth,</hi> and the Armies pay, as they did others ſe<g ref="char:EOLhyphen"/>queſtred eſtates heretofore, becauſe <hi>Tithes,</hi> though <note n="*" place="margin">See Mr. Sel<g ref="char:EOLhyphen"/>dens Hiſtory of Tithes, ch. 11. The 2. Part of my Goſpel Plea.</note> 
+               <hi>originally dedicated as a peculiar portion, inheritance, and rent-ſervice to God himſelf and his Church, as the Soveraign Lord of all mens In<g ref="char:EOLhyphen"/>heritances,</hi> ſpecially <hi>reſerved by him for his own immediate ho<g ref="char:EOLhyphen"/>nour, ſervice, homage, tribute, for all the other nine parts they enjoy by his free grace and liberality;</hi> may be thus alienated and diſtributed at their pleaſures; therefore much more the nine remaining parts alotted unto men alone, for their own pri<g ref="char:EOLhyphen"/>vate, and the Publick good; over which they have a greater probabler, legaller Juriſdiction, than over <hi>God's own peculiar portion, which might neither be alienated, exchanged, redeemed by any human powers, but only by the Prieſts conſents in ſome ſpe<g ref="char:EOLhyphen"/>cial caſes for their advantage,</hi> Numb. 18. 20. Levit, 27-28, 29, 30, 32, 33. Deut. 12. 17. c. 14. 22, 23. Mal. 3. 8, 9. E<g ref="char:EOLhyphen"/>zech. 48. 9 to 15. Which if once reduced into a new pub<g ref="char:EOLhyphen"/>lick Treaſury, the <hi>Miniſters</hi> are like to have no other ſhare nor better account of them, then of the <hi>Tithes</hi> of <hi>Southwales</hi> for ſom years laſt paſt, or of the <hi>Deans</hi> &amp; <hi>Chapters</hi> impropria<g ref="char:EOLhyphen"/>tions for the <hi>augmentation</hi> of <hi>incompetent livings,</hi> ſwallowed up for the moſt part by the <hi>Treaſurers</hi> and their <hi>Inſtruments,</hi> with little or no advantage to the publike, and leſs to the Mi<g ref="char:EOLhyphen"/>niſters, by reaſon of their <hi>unfaithfullneſs;</hi> far different from thoſe <note n="*" place="margin">2 Chron. 31. 11. to 20.</note> Treaſurers for the <hi>Tithes</hi> and <hi>Firſt fruits</hi> brought to <hi>Ieruſalem,</hi> appointed by King <hi>Hezekiah,</hi> over whom <hi>Coniah</hi> the Levite was ruler, who <hi>faithfully brought in and diſtributed to their brethren, the Oblations,</hi> TITHES, <hi>and dedicated things, as well to the great as the ſmall,</hi> without ſubſtraction or defalcation. The Statutes of 27 H 8. c. 20. 32 H. 8. c. 7. 2, &amp; 3E. 6. c. 13. <hi>ſtyle thoſe evil diſpoſed Perſons, not regarding their Duties to Almighty God, and to the King their Soveraign Lord; who out of an ungodly and perverſe will and mind detain all or any part or parcel of their Tythes and Offerings, enacting ſtrict penalties againſt all Substract<g ref="char:EOLhyphen"/>ers and Detainers of them.</hi> How then they can now be reputed <hi>con<g ref="char:EOLhyphen"/>ſciencious Godly Saints,</hi> unleſſe inrolled for ſuch in the <hi>Roman Ka<g ref="char:EOLhyphen"/>lendar,</hi> is worthy reſolution: ſome of them <hi>(as the Quakers)</hi> be<g ref="char:EOLhyphen"/>ginning of late to work on the <hi>Lords day,</hi> denying God <hi>one day</hi> in <hi>ſeven,</hi> as well as the <hi>Tenth</hi> of their annual increaſe, deeming both <hi>Jewiſh</hi> and <hi>Antichristian,</hi> as they deem our <hi>Miniſters. Ex cauda draconem.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
